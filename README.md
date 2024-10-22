@@ -23,27 +23,3 @@
     <a href = "mailto:eliasjunio1601@gmail.com"><img src="[https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target=](https://mail.google.com/mail/u/0/#inbox)"_blank"></a>
     <a href="https://instagram.com/elias junio" target="_blank"><img src="[https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank](https://www.instagram.com/eliasjuniobarros/?next=https%3A%2F%2Fwww.instagram.com%2Faccounts%2Fonetap%2F%3F__coig_login%3D1)"></a>
   
-</div>
-
-<br>
-
- [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=DocenteDevRafael&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
- 
- [![Elias github stats](https://bad-apple-github-readme.vercel.app/api?username=DocenteDevRafael&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
- 
-[!Eliasjunio0 current streak](https://streak-stats.demolab.com/?user=DocenteDevRafael&count_private=true&theme=blue-green&title_color=00b3ff)](#)
-
-
-
-
-
-
- ### TROPHIES
- 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=DocenteDevRafael&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
- <p align="center"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/DocenteDevRafael/count.svg" />
- </p>
